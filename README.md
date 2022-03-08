@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisalvizuris
-- 👀 I’m a software engineer based in sunny San Diego, California. I graduated with my CS degree in 2021 from WGU. I am actively looking for roles in software development. I am experienced in Java, Python, and JavaScript.
-- 🌱 I’m currently working as a QAS Tester for a bank, writing automation scripts in JavaScript and Node.js.
+- 👀 I’m a software engineer based in sunny San Diego, California. I graduated with a BS in Computer Science in 2021 from WGU. I am actively looking for roles in software development.
+- 🌱 I have experience working with Java, JavaScript, Python, Node.js, SQL, and a little C++.
 - 💞️ I’m looking to collaborate on fun projects with other software engineers.
 - 📫 How to reach me : email: chris.alvizuris@gmail.com
 
