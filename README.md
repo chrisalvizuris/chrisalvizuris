@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chrisalvizuris
-- 👀 I’m a software engineer based in sunny San Diego, California. I graduated with a BS in Computer Science in 2021 from WGU. I am actively looking for roles in software development.
+- 👀 I’m a software engineer based in sunny San Diego, California. I have a BS in Computer Science and am pursuing an MS in Cybersecurity.
 - 🌱 I have experience working with Java, JavaScript, Python, Node.js, SQL, and a little C++.
-- 💞️ I’m looking to collaborate on fun projects with other software engineers.
-- 📫 How to reach me : email: chris.alvizuris@gmail.com
+
 
 <!---
 chrisalvizuris/chrisalvizuris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
